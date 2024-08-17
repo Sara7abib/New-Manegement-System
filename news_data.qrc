@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/imgs/admin">
+        <file>question_mark.png</file>
+        <file>left.png</file>
+        <file>right.png</file>
+    </qresource>
+</RCC>

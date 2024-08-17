@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>icons8-search-30.png</file>
+        <file>Empty.png</file>
+        <file>Filled.png</file>
+        <file>Arts.png</file>
+        <file>Entertainment.png</file>
+        <file>Politics.png</file>
+        <file>Sports.png</file>
+        <file>Tech.png</file>
+    </qresource>
+</RCC>
